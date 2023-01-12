@@ -35,5 +35,4 @@ jobs:
           server: ftp.presales-etgs.com
           username: test@presales-etgs.com
           password: "*iK+G5E^r5(o"
-          protocol: ftps
-          port: 21
+          
