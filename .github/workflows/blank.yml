@@ -32,7 +32,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
-          server: ftp.presales-etgs.com
+          server: fttp://199.192.30.165
           username: test@presales-etgs.com
           password: ${{ secrets.FTP_PASSWORD}}
           
